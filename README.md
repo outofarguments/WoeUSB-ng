@@ -18,7 +18,7 @@ Supported bootmodes:
 * Legacy/MBR-style/IBM PC compatible bootmode
 * Native UEFI booting is supported for Windows 7 and later images (limited to the FAT filesystem as the target)
 
-This project rewrite of original [WoeUSB](https://github.com/slacka/WoeUSB) 
+
 
 ## Installation
 
@@ -62,14 +62,14 @@ sudo dnf install git p7zip p7zip-plugins python3-pip python3-wxpython4
 ```
 ### Install WoeUSB-ng
 ```shell
-git clone https://github.com/WoeUSB/WoeUSB-ng.git
+git clone https://github.com/outofarguments/WoeUSB-ng.git
 cd WoeUSB-ng
 sudo pip3 install .
 ```
 
 ### Installation from source code locally or in virtual environment 
 ```shell
-git clone https://github.com/WoeUSB/WoeUSB-ng.git
+git clone https://github.com/outofarguments/WoeUSB-ng.git
 cd WoeUSB-ng
 git apply development.patch
 sudo pip3 install -e .
