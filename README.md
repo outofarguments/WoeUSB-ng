@@ -1,5 +1,6 @@
 # WoeUSB-ng
-![brand](.github/woeusb-logo.png)
+![woeusb-logo](https://user-images.githubusercontent.com/103727320/163538737-5016f91e-37bd-4c59-927e-78c1d740faed.png)
+
 
 _A Linux program to create a Windows USB stick installer from a real Windows DVD or image._
 
